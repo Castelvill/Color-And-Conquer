@@ -1,5 +1,7 @@
 Multiplayer game 'Color and Conquer' made by Mateusz Matkowski and Marek Nowak.
 
+C++ library 'Allegro5' is required to compile the code.
+
 To compile project run 'make' command.
 
 To play the game go to the 'bin' folder, run './server' and then './client'.
