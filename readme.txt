@@ -1,8 +1,8 @@
-Multiplayer game 'Color and Conquer' made by Mateusz Matkowski and Marek Nowak.
+Prototype of a multiplayer game named 'Color and Conquer', created as a final project for SK2 (Sieci Komputerowe 2 / Computer Networks 2).
 
 C++ library 'Allegro5' is required to compile the code.
 
-To compile project run 'make' command.
+To build game run 'make' command.
 
 To play the game go to the 'bin' folder, run './server' and then './client'.
 On default ip address is set on localhost and port is 8000.
